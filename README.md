@@ -1,14 +1,14 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Sk1zy
+# Hello World ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)  My name is ***Sk1zy*** 
 =============================================================================================================================
 
 I'am Web Developer (React)
 --------------------------
 
-Hi, I'm 15 y.o and I live in Russia. I've been learning and write a code about 1 year. 
-Every day I try to learn something new. I want to get bookings so I can get more experience and practice my skills. Check out my rusume on my portfolio site! 
-So if you want to talk to me about the project message me on Telegram!  <a href="https://t.me/sk1zyZ" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
-  </a>
+## Hi, I'm 15 y.o and I live in Russia. I've been learning and write a code about 1 year. 
+## Every day I try to learn something new. I want to get bookings so I can get more experience and practice my skills. Check out my rusume on my portfolio site! 
+## So if you want to talk to me about the project message me on Telegram!  <a href="https://t.me/sk1zyZ" target="_blank">
+##    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
+##  </a>
 
 * 🌍  I'm based in Russia
 * 🖥️  See my portfolio at [Link for Portfolio](http://///)
