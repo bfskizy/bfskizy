@@ -5,7 +5,7 @@ I'am Web Developer (React)
 
 ## Hi, I'm 15 y.o and I live in Russia. I've been learning and write a code about 1 year. 
 ## Every day I try to learn something new. I want to get bookings so I can get more experience and practice my skills. Check out my rusume on my portfolio site! 
- So if you want to talk to me about the project message me on Telegram!  <a href="https://t.me/sk1zyZ" target="_blank">
+ So if you want to talk to me about the project or do you have any ideas message me on Telegram!  <a href="https://t.me/sk1zyZ" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
  </a>
 
